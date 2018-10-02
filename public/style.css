@@ -1,0 +1,7 @@
+body {
+  background-color: #81D4FA;
+}
+
+body.home {
+  background-color: #FFE082;
+}
